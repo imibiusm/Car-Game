@@ -1,0 +1,6 @@
+start - to start the car
+stop - to stop the car
+quit - to quit
+right - to turn the car right
+left - to turn the car left
+tow - to tow the car
